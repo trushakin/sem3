@@ -1,0 +1,15 @@
+C:\Users\trush\OneDrive\Documents\sem3\sem001\bin\Debug\net6.0\sem001.exe
+C:\Users\trush\OneDrive\Documents\sem3\sem001\bin\Debug\net6.0\sem001.deps.json
+C:\Users\trush\OneDrive\Documents\sem3\sem001\bin\Debug\net6.0\sem001.runtimeconfig.json
+C:\Users\trush\OneDrive\Documents\sem3\sem001\bin\Debug\net6.0\sem001.dll
+C:\Users\trush\OneDrive\Documents\sem3\sem001\bin\Debug\net6.0\sem001.pdb
+C:\Users\trush\OneDrive\Documents\sem3\sem001\obj\Debug\net6.0\sem001.csproj.AssemblyReference.cache
+C:\Users\trush\OneDrive\Documents\sem3\sem001\obj\Debug\net6.0\sem001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trush\OneDrive\Documents\sem3\sem001\obj\Debug\net6.0\sem001.AssemblyInfoInputs.cache
+C:\Users\trush\OneDrive\Documents\sem3\sem001\obj\Debug\net6.0\sem001.AssemblyInfo.cs
+C:\Users\trush\OneDrive\Documents\sem3\sem001\obj\Debug\net6.0\sem001.csproj.CoreCompileInputs.cache
+C:\Users\trush\OneDrive\Documents\sem3\sem001\obj\Debug\net6.0\sem001.dll
+C:\Users\trush\OneDrive\Documents\sem3\sem001\obj\Debug\net6.0\refint\sem001.dll
+C:\Users\trush\OneDrive\Documents\sem3\sem001\obj\Debug\net6.0\sem001.pdb
+C:\Users\trush\OneDrive\Documents\sem3\sem001\obj\Debug\net6.0\sem001.genruntimeconfig.cache
+C:\Users\trush\OneDrive\Documents\sem3\sem001\obj\Debug\net6.0\ref\sem001.dll
